@@ -1,2 +1,3 @@
-# reeling-dealing
-Reeling and dealing: How to write a techincal book
+# Reeling and dealing: How and why to write a technical book
+
+Resources for the workshop 
